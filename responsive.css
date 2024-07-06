@@ -1,0 +1,14 @@
+@media only screen and (max-width: 990px){
+    .offcanvas-body {
+        background: #00BB8F;
+    }
+    .offcanvas-header {
+        background: #E8FDF8;
+    }
+    
+}
+@media only screen and (max-width: 575px) {
+    .header-text h1{
+        font-size: 30px;
+    }
+}
